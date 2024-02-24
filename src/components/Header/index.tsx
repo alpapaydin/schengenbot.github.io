@@ -35,10 +35,11 @@ const Header = ({ t }: { t: TFunction }) => {
       <>
         <CustomNavLinkSmall
           style={{ width: "180px" }}
-          onClick={() => scrollTo("contact")}
+          onClick={() => scrollTo("product")}
         >
           <Span>
-            <Button>{t("Contact")}</Button>
+            <a href="https://t.me/uk_schengenbot" target="_blank" rel="noreferrer">
+            <Button>{t("Contact")}</Button></a>
           </Span>
         </CustomNavLinkSmall>
       </>
@@ -50,7 +51,7 @@ const Header = ({ t }: { t: TFunction }) => {
       <Container>
         <Row justify="space-between">
           <LogoContainer to="/" aria-label="homepage">
-            <SvgIcon src="logo.svg" width="101px" height="64px" />
+            <SvgIcon src="logo.svg" width="161px" height="84px" />
           </LogoContainer>
           <NotHidden>
             <MenuItem />

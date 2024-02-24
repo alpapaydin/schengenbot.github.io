@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Works continuously",
+  "text": "Even when you sleep. SchengenBot will promply check and notify you when it finds you a sweet spot.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Country preferences?",
+      "content": "No problem. Select the Schengen countries you like and only receive those notifications.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Date preferences?",
+      "content": "No problem. Select your deadline and only be notified about appointments before that date.",
       "icon": "notes.svg"
     }
   ]

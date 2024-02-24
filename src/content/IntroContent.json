@@ -1,6 +1,6 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "A visa assistant in your pocket.",
+  "text": "SchengenBot checks agencies of 20+ countries every minute to find you the nearest appointment.",
   "button": [
     {
       "title": "Explore"
